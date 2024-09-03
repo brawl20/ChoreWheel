@@ -6,7 +6,7 @@
 
 class Person
 {
-    private:
+    public:
     std::string name;
     Chore chore;
 };

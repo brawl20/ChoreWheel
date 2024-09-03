@@ -4,12 +4,12 @@
 class Chore
 {
     private:
-    bool freeDay;
-    bool dishes;
-    bool surfaces;
-    bool sweep;
-    bool trash;
-    bool completedChore;
+    bool freeDay = 0;
+    bool dishes = 0;
+    bool surfaces = 0;
+    bool sweep = 0;
+    bool trash = 0;
+    bool completedChore = 0;
 
     public:
     //Getters
