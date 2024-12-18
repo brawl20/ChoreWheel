@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\schedules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:schedules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "schedules.cpp",
+              "DocumentMoniker": "C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\schedules.cpp",
+              "RelativeDocumentMoniker": "schedules.cpp",
+              "ToolTip": "C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\schedules.cpp",
+              "RelativeToolTip": "schedules.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T09:03:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.cpp",
+              "DocumentMoniker": "C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\application.cpp",
+              "RelativeDocumentMoniker": "application.cpp",
+              "ToolTip": "C:\\Users\\miche\\Documents\\GitHub\\duke-of-errors\\application.cpp",
+              "RelativeToolTip": "application.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T09:02:43.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
